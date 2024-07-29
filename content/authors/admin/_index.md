@@ -22,7 +22,7 @@ role: Postdoc Fellow
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of British Columbia
-    #url: https://openai.com/
+    #url: https://www.ubc.ca/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -39,6 +39,7 @@ profiles:
 
 interests:
   - Algebraic Combinatorics
+  - Enumerative Combinatorics
 
 
 education:
@@ -76,13 +77,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      
+    
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -118,18 +113,7 @@ awards:
     awarder: Coursera
     icon: coursera
     
-  - title: Another thing
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    
-  - title: 'else'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+
     
 ---
 
