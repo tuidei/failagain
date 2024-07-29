@@ -17,32 +17,29 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Postdoc
+role: Postdoc Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of British Columbia
-    url: https://openai.com/
+    #url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:liangj@math.ubc.ca'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://github.com/tuidei
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Algebraic Combinatorics
+
 
 education:
   - area: PhD Algebraic combinatorics
@@ -50,14 +47,14 @@ education:
     date_start: 2019-09-01
     date_end: 2024-05-15
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Bruce Sagan](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MS
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MS Lie algebras and Mathematical Physics
+    institution: Nankai University
+    date_start: 2016-09-01
+    date_end: 2019-06-15
     summary: |
       GPA: 3.8/4.0
 
@@ -65,10 +62,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Pure Mathematics
+    institution: East China Normal University
+    date_start: 2012-09-01
+    date_end: 2016-07-15
     summary: |
       GPA: 3.4/4.0
       
